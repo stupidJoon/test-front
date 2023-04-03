@@ -1,0 +1,7 @@
+$semantic-root-element: "#__next";
+
+$enable-semantic-container: true;
+
+$enable-classes: false;
+
+@import "@picocss/pico/scss/pico.classless.scss"
